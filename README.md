@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+### Hi there 👋
+
+<p align="center">
+  <img src="https://media1.tenor.com/images/cc8c802f04e9899e085b3fc9b7037389/tenor.gif" width="0px">
+  <br><br>
+  🔭 I’m a PhD candidate in Bioinformatics program at Iowa State University
+</p>
+
+[![publication](https://img.shields.io/badge/-publications-red)](https://scholar.google.com/citations?user=_mFN4s4AAAAJ)
+[![twitter](https://img.shields.io/badge/-twitter-informational)](https://twitter.com/jainashish88)
+[![views](https://visitor-badge.glitch.me/badge?page_id=urmi-21.visitor-badge)](https://github.com/ashishjain1988)
+
 <!--
 **ashishjain1988/ashishjain1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
