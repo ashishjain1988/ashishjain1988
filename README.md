@@ -10,7 +10,7 @@
 [![twitter](https://img.shields.io/badge/-twitter-informational)](https://twitter.com/jainashish88)
 [![views](https://visitor-badge.glitch.me/badge?page_id=ashishjain1988.visitor-badge)](https://github.com/ashishjain1988)
 
-[![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishjain1988)](https://github.com/ashishjain1988/github-readme-stats)
+<!--[![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishjain1988)](https://github.com/ashishjain1988/github-readme-stats)-->
 
 
 <h3 align="left">Programming:</h3>
